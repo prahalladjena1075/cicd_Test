@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1 style="color:red;text-align:center ">welcome to spring boot mvc</h1>
+<h1 style="color:red;text-align:center ">Hellow jena welcome to spring boot </h1>
 <h1>Hello prahallad</h1>>
 </body>
 </html>
